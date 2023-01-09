@@ -1,7 +1,6 @@
 {
   "name": "google_docs_server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,15 @@
     "mongoose": "^6.8.3",
     "nodemon": "^2.0.20",
     "socket.io": "^4.5.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshu2014204/docs_clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priyanshu2014204/docs_clone/issues"
+  },
+  "homepage": "https://github.com/priyanshu2014204/docs_clone#readme",
+  "description": ""
 }
