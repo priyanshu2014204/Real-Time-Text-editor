@@ -4,7 +4,7 @@ const { connection } = require("./config/db");
 const { Data } = require("./model/data");
 connection;
 
-const ws = new Server(8080, {
+const ws = new Server(8001, {
   cors: { origin: "*" },
   method: ["GET", "POST"],
 });
